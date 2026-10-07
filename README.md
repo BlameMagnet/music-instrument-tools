@@ -42,7 +42,6 @@ Lookups are for estimating year and related details—not a certificate of authe
 
 - [About the site](https://heiguozhi.wang/en/about/site.html)
 - [About the author](https://heiguozhi.wang/en/about/author.html)
-- [Support the site](https://heiguozhi.wang/about/support.html) (Weixin tip page, Chinese only)
 
 Maintained by [BlameMagnet](https://github.com/BlameMagnet) (黑锅之王).
 
