@@ -1,29 +1,29 @@
 # 音楽・楽器ツール
 
-音楽好きのための無料サイト：練習・楽理ツールに加え、多ブランド楽器のシリアル番号検索と製造年リファレンス。
+練習・楽理学習、および多ブランド楽器のシリアル番号による製造年リファレンス向けのオンラインツールサイトです。
 
-サイトを開く：[https://heiguozhi.wang/ja/](https://heiguozhi.wang/ja/)
+サイト：[https://heiguozhi.wang/ja/](https://heiguozhi.wang/ja/)
 
-この案内の言語：[English](./README.md) · [简体中文](./README.zh-Hans.md) · [繁體中文](./README.zh-Hant.md) · [한국어](./README.ko.md) · [Español](./README.es.md) · [Tiếng Việt](./README.vi.md) · [Bahasa Indonesia](./README.id.md) · [Português (Brasil)](./README.pt-BR.md) · [ภาษาไทย](./README.th.md)
+他言語：[English](./README.md) · [简体中文](./README.zh-Hans.md) · [繁體中文](./README.zh-Hant.md) · [한국어](./README.ko.md) · [Español](./README.es.md) · [Tiếng Việt](./README.vi.md) · [Bahasa Indonesia](./README.id.md) · [Português (Brasil)](./README.pt-BR.md) · [ภาษาไทย](./README.th.md)
 
 ## ツール
 
-- [チューナー](https://heiguozhi.wang/ja/tools/tuner.html) — マイクで音高を見てチューニング。
-- [メトロノーム](https://heiguozhi.wang/ja/tools/metronome.html) — 練習用のクリック。音声キューも選べます。
-- [五度圏](https://heiguozhi.wang/ja/tools/circle-of-fifths.html) — 調の関係とよく使う和声の流れを俯瞰。
-- [トーン試聴](https://heiguozhi.wang/ja/tools/tone-playground.html) — エフェクター・アンプ・キャブを組んでギター/ベース音色をオンライン試聴。
-- [コード辞書](https://heiguozhi.wang/ja/tools/chord-dictionary.html) — ギター・ウクレレの押さえ方、構成音、試聴。
-- [指板表示](https://heiguozhi.wang/ja/tools/fretboard.html) — ギター・ベース・ウクレレ指板上で音階やコードを確認。
-- [音高・周波数](https://heiguozhi.wang/ja/tools/pitch-frequency.html) — A4 可変の音名周波数表と再生。
-- [スケール探索](https://heiguozhi.wang/ja/tools/scale-explorer.html) — 20 種以上のスケールを指板と音で確認。
-- [コード進行](https://heiguozhi.wang/ja/tools/progression-builder.html) — 度数で進行を組んで再生。
-- [ドラムマシン](https://heiguozhi.wang/ja/tools/rhythm-patterns.html) — スタイル別パターンと BPM。
-- [音程聴音](https://heiguozhi.wang/ja/tools/ear-training.html) — 音程を耳で聞き分ける練習。
-- [線径換算](https://heiguozhi.wang/ja/tools/wire-gauge-converter.html) — AWG / SWG / 径 / 断面積の換算（オーディオ配線向け）。
+- [チューナー](https://heiguozhi.wang/ja/tools/tuner.html) — マイクによるリアルタイム音高検出。ギター、ベース、バイオリン等に対応。A4 基準音の調整が可能です。
+- [メトロノーム](https://heiguozhi.wang/ja/tools/metronome.html) — 拍子・タップテンポ・任意の音声キューに対応したオンラインメトロノーム。日常練習およびリズム訓練向けです。
+- [五度圏](https://heiguozhi.wang/ja/tools/circle-of-fifths.html) — 七種の教会モードを含む対話型五度圏。調同士の五度関係、長短調の相対関係、定番の和声進行の理解に用い、作曲・編曲・楽理学習に適します。
+- [トーン試聴](https://heiguozhi.wang/ja/tools/tone-playground.html) — エレキギター／ベースの信号チェーン用サンドボックス。エフェクター、アンプヘッド、キャビネット、DI を組み合わせ、ドライ／ウェット波形を比較できます。一部ヘッドは NAM サンプリング音色に対応し、マイク入力またはローカルのドライ音源アップロードも可能です。教材向けのシミュレーションであり、各ブランドの公式製品ではありません。
+- [コード辞書](https://heiguozhi.wang/ja/tools/chord-dictionary.html) — ギター／ウクレレ向けコードリファレンス。メジャー、マイナー、セブンス、サス等に対応し、オープン／ムーバブルフィンガリング、SVG ダイアグラム、構成音、音声試聴を提供します。
+- [指板表示](https://heiguozhi.wang/ja/tools/fretboard.html) — ギター、ベース、ウクレレ向けの対話型指板。各種チューニング、スケール／コードテンプレート、フレット範囲の指定、音声プレビューに対応します。
+- [音高・周波数](https://heiguozhi.wang/ja/tools/pitch-frequency.html) — 十二平均律に基づく周波数表。A4（392–470 Hz）を調整でき、C0–C10 の全半音の理論周波数を一覧化し、音名ごとの試聴が可能です。
+- [スケール探索](https://heiguozhi.wang/ja/tools/scale-explorer.html) — メジャー、マイナー、ペンタトニック、ブルース、対称音階等を含む 20 種超のスケール。指板可視化と音声を備えます。
+- [コード進行](https://heiguozhi.wang/ja/tools/progression-builder.html) — ディグリー（度数）に基づくコード進行の構築。任意シーケンス、定番プリセット、BPM 調整、音声再生に対応します。
+- [ドラムマシン](https://heiguozhi.wang/ja/tools/rhythm-patterns.html) — ロック、ファンク、サンバ、レゲエ等のスタイル別パターンライブラリ。BPM 調整とビジュアル再生に対応します。
+- [音程聴音](https://heiguozhi.wang/ja/tools/ear-training.html) — 音程識別トレーニング。複数の音程集合と難易度、上行／下行／ハーモニー提示、正答率の記録に対応します。
+- [線径換算](https://heiguozhi.wang/ja/tools/wire-gauge-converter.html) — 楽器およびオーディオ配線向けに、AWG、SWG、メートル法／ヤード・ポンド法の線径と断面積を換算します。
 
 ## シリアル番号検索
 
-よく使うブランドからどうぞ。ほかは[ホーム](https://heiguozhi.wang/ja/)へ。
+優先度の高いブランドの抜粋（サイトのプリセット順）。その他は[ホーム](https://heiguozhi.wang/ja/)または `/sn-decoders/{brand}.html` を参照してください。
 
 - [Gibson](https://heiguozhi.wang/ja/sn-decoders/gibson.html)
 - [Fender](https://heiguozhi.wang/ja/sn-decoders/fender.html)
@@ -36,7 +36,7 @@
 - [ESP / LTD](https://heiguozhi.wang/ja/sn-decoders/esp-ltd.html)
 - [Edwards / GrassRoots](https://heiguozhi.wang/ja/sn-decoders/edwards-grassroots.html)
 
-検索結果は製造年などの目安であり、真贋証明ではありません。トーン試聴は教材向けのシミュレータで、各ブランドの公式製品ではありません。
+結果は製造年および関連属性の推定であり、真贋証明や鑑定を構成するものではありません。
 
 ## このサイトについて
 
@@ -47,4 +47,4 @@
 
 ## フィードバック
 
-誤った解読結果、壊れたページ、改善案などは [GitHub Issue](https://github.com/BlameMagnet/music-instrument-tools/issues) へ。ページの URL と、何が起きたか／何が欲しいかを短く書いてください。
+誤った解読結果、不具合、機能要望は [GitHub Issues](https://github.com/BlameMagnet/music-instrument-tools/issues) へ。ページ URL と簡潔な説明を添えてください。
