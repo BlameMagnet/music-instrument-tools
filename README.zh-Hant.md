@@ -4,7 +4,7 @@
 
 打開網站：[https://heiguozhi.wang/zh-Hant/](https://heiguozhi.wang/zh-Hant/)
 
-另有 [English](./README.md) 與 [简体中文](./README.zh-Hans.md) 說明。網站本身也提供簡體、英文、繁體三種介面。
+另有 [English](./README.md) 與 [简体中文](./README.zh-Hans.md) 說明。網站本身提供十種介面：預設簡體中文，以及英文、繁體中文、日語、韓語、西班牙語、越南語、印尼語、巴西葡萄牙語、泰語。
 
 ## 工具
 

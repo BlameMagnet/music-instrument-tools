@@ -4,7 +4,7 @@
 
 打开网站：[https://heiguozhi.wang](https://heiguozhi.wang)
 
-另有 [English](./README.md) 与 [繁體中文](./README.zh-Hant.md) 说明。网站本身也提供简体、英文、繁体三种界面。
+另有 [English](./README.md) 与 [繁體中文](./README.zh-Hant.md) 说明。网站本身提供十种界面：默认简体中文，以及英文、繁体中文、日语、韩语、西班牙语、越南语、印尼语、巴西葡萄牙语、泰语。
 
 ## 工具
 

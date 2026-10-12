@@ -4,7 +4,7 @@ A free website for musicians: practice utilities, music-theory helpers, and seri
 
 Open the site: [https://heiguozhi.wang/en/](https://heiguozhi.wang/en/)
 
-Also available in [简体中文](./README.zh-Hans.md) and [繁體中文](./README.zh-Hant.md). The website itself offers the same pages in Simplified Chinese, English, and Traditional Chinese.
+Also available in [简体中文](./README.zh-Hans.md) and [繁體中文](./README.zh-Hant.md). The website itself is available in ten languages: Simplified Chinese (site root), English, Traditional Chinese, Japanese, Korean, Spanish, Vietnamese, Indonesian, Brazilian Portuguese, and Thai.
 
 ## Tools
 
