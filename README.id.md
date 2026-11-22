@@ -1,6 +1,6 @@
 # Alat untuk Musisi
 
-Situs referensi berisi utilitas latihan, bantuan teori musik, serta pencarian nomor seri dan tahun produksi instrumen lintas merek.
+Situs referensi berisi utilitas latihan, bantuan teori musik, serta pencarian nomor seri dan kode tanggal komponen untuk peralatan musik lintas merek.
 
 Situs: [https://heiguozhi.wang/id/](https://heiguozhi.wang/id/)
 
@@ -8,14 +8,14 @@ Bahasa lain: [English](./README.md) · [简体中文](./README.zh-Hans.md) · [�
 
 ## Alat
 
-- [Tuner](https://heiguozhi.wang/id/tools/tuner.html) — Deteksi nada real-time melalui mikrofon untuk gitar, bass, biola, dan instrumen lain. Mendukung penyesuaian nada acuan A4.
-- [Metronom](https://heiguozhi.wang/id/tools/metronome.html) — Metronom daring dengan birama, tap tempo, dan isyarat suara opsional untuk latihan serta pelatihan ritme.
+- [Tuner](https://heiguozhi.wang/id/tools/tuner.html) — Deteksi nada real-time melalui mikrofon untuk gitar, bass, biola, dan instrumen lain. Mendukung penyesuaian nada acuan A4 yang digunakan bersama di seluruh situs (392–470 Hz).
+- [Metronom](https://heiguozhi.wang/id/tools/metronome.html) — Metronom daring dengan birama, tap tempo, dan isyarat suara opsional untuk latihan serta pelatihan ritme. Di dalam halaman tersedia tautan ke versi ringan untuk jam tangan, layar kecil, dan peramban lama.
 - [Lingkaran kuint](https://heiguozhi.wang/id/tools/circle-of-fifths.html) — Lingkaran kuint interaktif yang mencakup mode gerejawi, hubungan tonalitas, relatif mayor/minor, dan gerakan harmoni umum. Cocok untuk komposisi, aransemen, dan studi teori.
-- [Ruang tone](https://heiguozhi.wang/id/tools/tone-playground.html) — Sandbox rantai sinyal untuk gitar/bass elektrik: pedal, head ampli, kabinet, dan DI, dengan perbandingan gelombang dry/wet. Sebagian head mendukung tone sampel NAM; mikrofon atau unggahan audio dry lokal juga dapat digunakan. Simulasi instruksional—bukan produk resmi merek mana pun.
+- [Ruang tone](https://heiguozhi.wang/id/tools/tone-playground.html) — Sandbox rantai sinyal untuk gitar/bass elektrik: pedal, head ampli, IR kabinet, dan DI, dengan perbandingan A/B, bypass seluruh rantai, perbandingan gelombang dry/wet, serta tautan berbagi rantai suara. Sebagian head mendukung tone sampel NAM; mikrofon atau unggahan audio dry lokal juga dapat digunakan. Simulasi instruksional—bukan produk resmi merek mana pun.
 - [Kamus chord](https://heiguozhi.wang/id/tools/chord-dictionary.html) — Referensi chord gitar dan ukulele (mayor, minor, seventh, suspended, dll.), dengan bentuk terbuka/bergerak, diagram SVG, daftar nada, dan pemutaran audio.
-- [Fretboard](https://heiguozhi.wang/id/tools/fretboard.html) — Fretboard interaktif untuk gitar, bass, dan ukulele. Mendukung berbagai stem, templat tangga nada/chord, rentang fret kustom, dan pratinjau audio.
+- [Fretboard](https://heiguozhi.wang/id/tools/fretboard.html) — Fretboard interaktif untuk gitar, bass, ukulele, mandolin, banjo, serta alat musik petik tradisional (liuqin, pipa, zhongruan, daruan, dan yueqin). Mendukung berbagai stem, templat tangga nada/chord, tampilan 12 fret atau fret penuh, dan pratinjau audio.
 - [Frekuensi nada](https://heiguozhi.wang/id/tools/pitch-frequency.html) — Tabel frekuensi temperamen sama dua belas nada dengan A4 yang dapat disesuaikan (392–470 Hz). Menampilkan frekuensi teoretis semua semiton dari C0 hingga C10, dengan pemutaran per nada.
-- [Penjelajah tangga nada](https://heiguozhi.wang/id/tools/scale-explorer.html) — Katalog lebih dari dua puluh jenis tangga nada (mayor, minor, pentatonik, blues, simetris, dan lainnya), dilengkapi visualisasi fretboard dan audio.
+- [Penjelajah tangga nada](https://heiguozhi.wang/id/tools/scale-explorer.html) — Katalog lebih dari dua puluh jenis tangga nada (mayor, minor, pentatonik, blues, simetris, dan eksotis), dilengkapi visualisasi fretboard untuk berbagai instrumen (12 fret atau fret penuh) dan pemutaran audio.
 - [Progresi chord](https://heiguozhi.wang/id/tools/progression-builder.html) — Menyusun progresi berdasarkan derajat. Mendukung urutan kustom, preset umum, kontrol BPM, dan pemutaran audio.
 - [Drum machine](https://heiguozhi.wang/id/tools/rhythm-patterns.html) — Pustaka pola drum per gaya (rock, funk, samba, reggae, dan lainnya) dengan kontrol BPM dan pemutaran visual.
 - [Ear training](https://heiguozhi.wang/id/tools/ear-training.html) — Pelatih pengenalan interval dengan berbagai himpunan interval dan tingkat kesulitan. Menyajikan naik, turun, atau harmonis, serta pencatatan akurasi.
@@ -23,7 +23,7 @@ Bahasa lain: [English](./README.md) · [简体中文](./README.zh-Hans.md) · [�
 
 ## Cek nomor seri
 
-Merek berprioritas tinggi terpilih (urut preset situs). Merek lainnya tersedia di [beranda](https://heiguozhi.wang/id/) atau `/sn-decoders/{brand}.html`.
+Merek berprioritas tinggi terpilih (urut preset situs). Merek alat musik, ampli, dan efek lainnya tersedia di [beranda](https://heiguozhi.wang/id/) atau `/sn-decoders/{brand}.html`.
 
 - [Gibson](https://heiguozhi.wang/id/sn-decoders/gibson.html)
 - [Fender](https://heiguozhi.wang/id/sn-decoders/fender.html)
@@ -36,12 +36,20 @@ Merek berprioritas tinggi terpilih (urut preset situs). Merek lainnya tersedia d
 - [ESP / LTD](https://heiguozhi.wang/id/sn-decoders/esp-ltd.html)
 - [Edwards / GrassRoots](https://heiguozhi.wang/id/sn-decoders/edwards-grassroots.html)
 
-Hasil merupakan perkiraan tahun produksi dan atribut terkait. Tidak merupakan autentikasi atau appraisal.
+### Kode tanggal komponen
+
+- [Celestion](https://heiguozhi.wang/id/sn-decoders/celestion.html) — Pencarian kode tanggal pabrik dan referensi tahun produksi untuk speaker gitar (bukan sistem EIA).
+- [Kode tanggal potensiometer](https://heiguozhi.wang/id/sn-decoders/pot.html) — Pencarian kode tanggal sumber EIA AS untuk potensiometer gitar dan bass elektrik (pabrikan, tahun, dan minggu).
+- [Kode tanggal EIA speaker](https://heiguozhi.wang/id/sn-decoders/speaker-eia.html) — Pencarian kode tanggal sumber EIA AS untuk speaker ampli gitar (Jensen, Rola, Oxford, Utah, Eminence, dan lainnya).
+- [Kode tanggal EIA transformator](https://heiguozhi.wang/id/sn-decoders/transformer-eia.html) — Pencarian kode tanggal sumber EIA AS untuk transformator dan choke ampli gitar vintage (Schumacher, Triad, Stancor, dan lainnya).
+
+Hasil merupakan perkiraan tahun produksi dan atribut terkait (tanggal komponen hanya menjadi batas bawah tanggal pembuatan peralatan). Tidak merupakan autentikasi atau appraisal.
 
 ## Tentang
 
 - [Tentang situs ini](https://heiguozhi.wang/id/about/site.html)
 - [Tentang penulis](https://heiguozhi.wang/id/about/author.html)
+- [Dukung situs ini](https://heiguozhi.wang/id/about/support.html)
 
 Dikelola oleh [BlameMagnet](https://github.com/BlameMagnet) (黑锅之王).
 
